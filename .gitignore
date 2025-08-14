@@ -4,8 +4,10 @@ ProcessERA5_Surface/diffs_data/
 ProcessERA5_Surface/diffs_extremes/
 ProcessModelsSurface/corrs_models_extremes/
 ProcessModelsSurface/diffs_models_extremes_v2/
+ProcessModelsSurface/diffs_4xco2_surface/
 ProcessSSTs/correlations_obs/
 ProcessSSTs/trends_obs/
 ProcessZ500/labels*/
 ProcessZ500/labels/
 ProcessZ500/results_best_k/
+ProcessZ500/diffs_z500_model/
